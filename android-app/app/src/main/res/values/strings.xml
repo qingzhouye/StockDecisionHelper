@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">股票决策助手</string>
+    <string name="add_stock">添加股票</string>
+    <string name="stock_code">股票代码</string>
+    <string name="buy_price">买入价格</string>
+    <string name="quantity">买入数量</string>
+    <string name="target_return">目标收益率</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="view_chart">查看走势图</string>
+    <string name="current_price">当前价格</string>
+    <string name="profit">当前收益</string>
+    <string name="return_rate">收益率</string>
+    <string name="empty_state">暂无监控股票，点击右下角添加</string>
+    <string name="alert_sell">已达到目标收益率，建议卖出！</string>
+</resources>
